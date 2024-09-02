@@ -1,4 +1,4 @@
-# 🌟 SuperTA - AIs for Classroom Prep: For Teachers, By Teachers 🌟
+# 🌟 SuperTA - AIs for Classroom Prep: For Teachers, By Teachers 
 
 Welcome to **SuperTA**, the cutting-edge platform designed to revolutionize classroom preparation and educational content creation. Our mission is to empower educators with personalized AI tools that streamline lesson planning, differentiated activities, assessment creation, and student feedback. With SuperTA, the future of teaching is here.
 
