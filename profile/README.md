@@ -3,7 +3,7 @@
 Welcome to **SuperTA**, the cutting-edge platform designed to revolutionize classroom preparation and educational content creation. Our mission is to empower educators with personalized AI tools that streamline lesson planning, differentiated activities, assessment creation, and student feedback. With SuperTA, the future of teaching is here.
 
 ## 🚀 Vision
-At SuperTA, we envision a future where educators can focus on what they do best... teaching, while our AI-driven tools handle the heavy lifting of content creation and classroom management. We are building a marketplace where teachers can buy, sell, and customize AI models to meet their specific needs.
+At SuperTA, we envision a future where educators can focus on what they do best...teaching, while our AI-driven tools handle the heavy lifting of content creation and classroom management. We are building a marketplace where teachers can buy, sell, and customize AI models to meet their specific needs.
 
 ## 🧠 Core Features
 - **Lesson Generation**: Create comprehensive lesson plans tailored to your curriculum with just a few clicks.
