@@ -21,10 +21,10 @@ SuperTA features a robust marketplace where educators can buy and sell custom-tr
 We prioritize the security of your data. SuperTA is built with encryption at rest and in transit, multi-factor authentication (MFA), and rigorous access control protocols. Our infrastructure is monitored continuously to ensure the highest level of security.
 
 ## 📈 Roadmap
-- **Q4 2024**: MVP Development
-- **Q1 2025**: Pilot and Commercialization
-- **Q2 2025**: Marketplace Expansion
-- **Q3 2025**: Advanced AI Features and Integrations
+- **Q1 2025**: MVP Completion
+- **Q2 2025**: Pilot and Commercialization
+- **Q3 2025**: Marketplace Expansion
+- **Q4 2025**: Advanced AI Features and Integrations
 
 ## 🤝 Contributing
 We welcome contributions from educators, developers, and AI enthusiasts. Whether it's improving our codebase, suggesting new features, or sharing feedback; your input is invaluable.
